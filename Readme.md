@@ -1,6 +1,6 @@
 # Ryzentosh on 3500U
 
-
+![img](images/image.png)
 
 #### What works
 - [x] GPU
